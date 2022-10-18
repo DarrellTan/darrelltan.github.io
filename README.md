@@ -1,1 +1,0 @@
-# darrelltan.github.io
