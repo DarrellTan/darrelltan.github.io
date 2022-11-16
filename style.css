@@ -1,0 +1,25 @@
+#us {
+    display: none;
+    width: 30%;
+}
+
+#dharmin {
+    display: none;
+    width: 30%;
+}
+
+.button {
+    height: 10%;
+    width: 30%;
+    border: 0.05%;
+    border-color: black;
+    background-color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+* {
+    padding: 0.3rem;
+}
